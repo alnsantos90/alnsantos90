@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="http://ncode.com.br/img-github/allan-dev.jpg">
 
-<!--
-**alnsantos90/alnsantos90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello world, I'm Allan :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-Stack | Developer 🙋‍♂️
+
+"Se você realmente deseja algo, nunca desista, os obstáculos não são nada quando existe esperança." 🖋
+
+## Sobre mim
+
+- 💻 → Desenvolvedor FullStack ReactJs, React Native, NodeJs
+-  👨‍👦‍👦 → Pai de dois meninos maravilhosso ♥️
+-  ⚽️ → Apaixonado por esportes
+- 🧘‍♂️ → Uma pessoa bem tranquila
+- ✉️ → allan.santos@ncode.com.br
+
+---
+### Made with ♥️ by Allan
