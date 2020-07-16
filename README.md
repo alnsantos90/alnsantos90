@@ -10,7 +10,7 @@ Full-Stack | Developer 🙋‍♂️
 ## Sobre mim
 
 - 💻 → Desenvolvedor FullStack ReactJs, React Native, NodeJs
--  👨‍👦‍👦 → Pai de dois meninos maravilhosso ♥️
+-  👨‍👦‍👦 → Pai de dois meninos maravilhosos ♥️
 -  ⚽️ → Apaixonado por esportes
 - 🧘‍♂️ → Uma pessoa bem tranquila
 - ✉️ → allan.santos@ncode.com.br
