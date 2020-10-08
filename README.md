@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1yiMglR81RtFTy9gGnXM7HZmH_MqVzYhW/view?usp=sharing">
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1yiMglR81RtFTy9gGnXM7HZmH_MqVzYhW/preview">
 
 
 # Hello world, I'm Allan :octocat:
