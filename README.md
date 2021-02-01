@@ -13,7 +13,7 @@ Full-Stack | Developer 🙋‍♂️
 -  👨‍👦‍👦 → Pai de dois meninos maravilhosos ♥️
 -  ⚽️ → Apaixonado por esportes
 - 🧘‍♂️ → Uma pessoa bem tranquila
-- ✉️ → allan.santos@ncode.com.br
+- ✉️ → alnsantos90@gmail.com
 
 ---
 ### Made with ♥️ by Allan
