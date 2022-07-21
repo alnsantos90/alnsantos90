@@ -5,11 +5,11 @@
 
 Full-Stack | Developer 🙋‍♂️
 
-"Se você realmente deseja algo, nunca desista, os obstáculos não são nada quando existe esperança." 🖋
+"Se você realmente deseja algo, nunca desista, os obstáculos não são nada quando existe resiliência." 🖋
 
 ## Sobre mim
 
-- 💻 → Desenvolvedor FullStack ReactJs, React Native, NodeJs
+- 💻 → Desenvolvedor Front End ReactJs, NextJs, React Native, NodeJs
 -  👨‍👦‍👦 → Pai de dois meninos maravilhosos ♥️
 -  ⚽️ → Apaixonado por esportes
 - 🧘‍♂️ → Uma pessoa bem tranquila
